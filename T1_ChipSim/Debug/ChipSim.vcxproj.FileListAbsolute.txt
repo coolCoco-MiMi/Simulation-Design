@@ -1,0 +1,2 @@
+C:\Users\simon\source\repos\ChipSim\Debug\ChipSim.exe
+C:\Users\simon\source\repos\ChipSim\Debug\ChipSim.pdb
