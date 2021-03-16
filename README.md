@@ -15,3 +15,19 @@ __Wafer specification:__
 * Note that a defect may not fall on a chip
 
 * Cost to manufacture a single wafer: $5,000
+
+### Task two: Car following algorithm
+
+Rather than try to maintain a constant speed, we are going to follow a car, trying to maintain a safe distance, defined as a time gap (allows a safe distance at various speeds)
+
+### Available Sensors
+
+* Distance to previous car (d = x1(t) – x2(t))
+
+* Current velocity (V)
+
+### Inputs
+
+* Desired time gap between cars (T)
+
+* Sensitivity (β): how quickly the car reacts to changes
