@@ -20,13 +20,13 @@ __Wafer specification:__
 
 Rather than try to maintain a constant speed, we are going to follow a car, trying to maintain a safe distance, defined as a time gap (allows a safe distance at various speeds)
 
-### Available Sensors
+##### Available Sensors
 
 * Distance to previous car (d = x1(t) – x2(t))
 
 * Current velocity (V)
 
-### Inputs
+##### Inputs
 
 * Desired time gap between cars (T)
 
