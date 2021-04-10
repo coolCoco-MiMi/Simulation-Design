@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasmine/Documents/Simulation-Design/PID/ControllerState.cpp
+ControllerState.h
+/home/jasmine/Documents/Simulation-Design/PID/ControllerState.h
+Parameters.h
+/home/jasmine/Documents/Simulation-Design/PID/Parameters.h
+EulersMethod.h
+/home/jasmine/Documents/Simulation-Design/PID/EulersMethod.h
+iostream
+-
+
+/home/jasmine/Documents/Simulation-Design/PID/ControllerState.h
+
+/home/jasmine/Documents/Simulation-Design/PID/EulersMethod.cpp
+EulersMethod.h
+/home/jasmine/Documents/Simulation-Design/PID/EulersMethod.h
+
+/home/jasmine/Documents/Simulation-Design/PID/EulersMethod.h
+
+/home/jasmine/Documents/Simulation-Design/PID/PID.cpp
+iostream
+-
+EulersMethod.h
+/home/jasmine/Documents/Simulation-Design/PID/EulersMethod.h
+ControllerState.h
+/home/jasmine/Documents/Simulation-Design/PID/ControllerState.h
+
+/home/jasmine/Documents/Simulation-Design/PID/Parameters.h
+
