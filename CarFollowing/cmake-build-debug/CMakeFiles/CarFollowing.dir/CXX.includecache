@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasmine/Documents/Simulation-Design/CarFollowing/Car.cpp
+iostream
+-
+EulersMethod.h
+/home/jasmine/Documents/Simulation-Design/CarFollowing/EulersMethod.h
+Car.h
+/home/jasmine/Documents/Simulation-Design/CarFollowing/Car.h
+
+/home/jasmine/Documents/Simulation-Design/CarFollowing/Car.h
+
+/home/jasmine/Documents/Simulation-Design/CarFollowing/EulersMethod.h
+
+/home/jasmine/Documents/Simulation-Design/CarFollowing/Road.cpp
+iostream
+-
+Car.h
+/home/jasmine/Documents/Simulation-Design/CarFollowing/Car.h
+
