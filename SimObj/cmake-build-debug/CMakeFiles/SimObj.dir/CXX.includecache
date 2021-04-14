@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasmine/Documents/Simulation-Design/SimObj/SimObj.cpp
+SimObj.h
+/home/jasmine/Documents/Simulation-Design/SimObj/SimObj.h
+iostream
+-
+
+/home/jasmine/Documents/Simulation-Design/SimObj/SimObj.h
+
