@@ -16,7 +16,15 @@ __Wafer specification:__
 
 * Cost to manufacture a single wafer: $5,000
 
-### Task two: Car following algorithm
+### Task Two: PID Controller
+
+Simulate the process of a PID controller.
+
+Record every state at each timestamp.
+
+Modifiy the Kp, Ki, Kd values to see the performace changes. 
+
+### Task Three: Car following algorithm
 
 Rather than try to maintain a constant speed, we are going to follow a car, trying to maintain a safe distance, defined as a time gap (allows a safe distance at various speeds)
 
