@@ -40,6 +40,6 @@ Rather than try to maintain a constant speed, we are going to follow a car, tryi
 
 * Sensitivity (β): how quickly the car reacts to changes.
 
-### Task Four: an abstract discrete event simulation engine. 
+### Task Four: A discrete event simulation engine. 
 
 Use linked list to achieve event arrival, event departure. 
