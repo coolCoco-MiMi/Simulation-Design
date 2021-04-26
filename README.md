@@ -39,3 +39,7 @@ Rather than try to maintain a constant speed, we are going to follow a car, tryi
 * Desired time gap between cars (T)
 
 * Sensitivity (β): how quickly the car reacts to changes.
+
+### Task Four: an abstract discrete event simulation engine. 
+
+Use linked list to achieve event arrival, event departure. 
