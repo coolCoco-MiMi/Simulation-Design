@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Hanoi_Tower.dir/Cube.cpp.o CMakeFiles/Hanoi_Tower.dir/Game.cpp.o CMakeFiles/Hanoi_Tower.dir/HSLAPixel.cpp.o CMakeFiles/Hanoi_Tower.dir/main.cpp.o CMakeFiles/Hanoi_Tower.dir/Stack.cpp.o -o Hanoi_Tower 

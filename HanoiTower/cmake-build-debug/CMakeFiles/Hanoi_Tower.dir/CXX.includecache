@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Cube.h
+HSLAPixel.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/HSLAPixel.h
+
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Game.cpp
+Game.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Game.h
+Stack.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Stack.h
+Cube.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Cube.h
+HSLAPixel.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/HSLAPixel.h
+iostream
+-
+
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Game.h
+Stack.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Stack.h
+vector
+-
+
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/HSLAPixel.h
+iostream
+-
+sstream
+-
+
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Stack.h
+vector
+-
+Cube.h
+/home/jasmine/Documents/Simulation-Design/Hanoi Tower/Cube.h
+
