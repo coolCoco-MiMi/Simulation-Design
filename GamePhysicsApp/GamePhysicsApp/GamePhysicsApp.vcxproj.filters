@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Framework\App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\body.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\collide_coarse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\collide_fine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\contacts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\fgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePhysicsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\joints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\pcontacts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\pfgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\plinks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\pworld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Timing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycloneEngine\world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuatApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Framework\App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\body.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\collide_coarse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\collide_fine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\contacts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\cyclone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\fgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\joints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\OGL_header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\pcontacts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\pfgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\plinks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\precision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\pworld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Timing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CycloneEngine\world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

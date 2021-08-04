@@ -1,0 +1,14 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  QuatApp.cpp
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(54): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(356): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(357): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(358): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(361): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(362): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\simon\downloads\gamephysicsapp\gamephysicsapp\quatapp.cpp(363): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  GamePhysicsApp.vcxproj -> C:\Users\simon\Downloads\GamePhysicsApp\Debug\GamePhysicsApp.exe
