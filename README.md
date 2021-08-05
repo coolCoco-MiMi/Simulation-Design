@@ -1,10 +1,12 @@
 # Simulation-Design
 Simulation accomplished by CPP
 ### Project 1
+A raw first person shooting game includes rigid-body pyhsics, so it can rotates and detect collision. 
+![shooter](https://user-images.githubusercontent.com/56880104/128375858-a87f490a-5990-4b8c-9e4d-c3532c2a3bc0.gif)
 
 ### Project 2
 
-Develeped the QuatApp showing 3 rotation spheres that are named as: sun (in red color), earth(in blue color), moon( in yellow color). Sun sphere should have self-rotation, along with the moon and earth. Earth should rotate around the sun while the moon should rotate around earth. The app is based on the Cyclone Engine framework. 
+Develeped the QuatApp showing 3 rotation spheres that are named as: sun (in red color), earth(in blue color), moon( in yellow color) with OpenGL visulization. Sun sphere has self-rotation, along with the moon and earth. Earth rotates around the sun while the moon rotates around earth. They are achieved by 3D rotation martrix. The app is based on the Cyclone Engine framework. 
 
 ![Orbit](https://user-images.githubusercontent.com/56880104/128252246-ce728c3a-518f-42e0-9d89-deede41f6069.gif)
 
