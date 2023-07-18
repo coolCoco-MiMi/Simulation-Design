@@ -1,4 +1,4 @@
-# Simulation-Design
+# Simulation-Design Course at ODU
 Simulation accomplished by CPP
 ### Project 1
 A raw first person shooting game includes rigid-body pyhsics, so it can rotates and detect collision. 
